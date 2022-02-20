@@ -1,0 +1,6 @@
+{
+    "chromeWebSecurity": false,
+    "pageLoadTimeout": 90000,
+    "modifyObstructiveCode": true,
+    "experimentalSourceRewriting": true
+}
